@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+/* inside style.css */
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
